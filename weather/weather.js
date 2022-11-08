@@ -1,5 +1,5 @@
 
-
+// ;;
 //the names in the queryselector are the name from the html 
 //class name of the information like temperatur,cloud,etc.
 
