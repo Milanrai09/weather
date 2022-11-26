@@ -30,7 +30,7 @@ click.addEventListener('click',function(){
     akash.innerHTML = badal;
     hawa.innerHTML = 'wind'+' '+ hawavalue + 'km/h';
     humidity.innerHTML = 'humidity'+' ' + humidityvalue + '%';
-    
+    document.body.style.backgroundImage = "url('https://source.unsplash.com/1600x900/?" + namvalue +"')"
 
 
   
